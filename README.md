@@ -1,14 +1,4 @@
-# SO...
-I really like coding using AI, especially **[ChatGPT](chatgpt.com)**.![ChatGPT-Logo svg (2)](https://github.com/user-attachments/assets/b62d54f2-cc37-4ef1-81c4-4c35b91961c8)
-I am an expert in:
-HTML
-CSS
-JS
-
-I am also quite good at Scratch.
-
-
-
-With the help of the AI, I can do crazy code.
-For example, an interactive SVG!
-[Download interactive SVG file](https://cdn.discordapp.com/attachments/1020384637811445791/1374004102845038775/drawing_circle.svg?ex=682dca09&is=682c7889&hm=de526b5eb7ef5ad36e26324f8f84d6e882b3514dcc21432c60ffacb7a0ed22e5)
+![image](https://github.com/user-attachments/assets/bfedd745-0c90-4609-a4b2-d09ccbe4dd4f)
+![image](https://github.com/user-attachments/assets/d0d1ecf4-548f-4bb2-8c43-f5cce7dc03e1)
+| [Profile](https://github.com/wiktorlaskowski) | [MonoCSS](https://github.com/wiktorlaskowski/monocssbywiktor) | [Mintrace](https://github.com/wiktorlaskowski/Minitrace-Python-Library) | [Minitrace (landing page)](https://wiktorlaskowski.github.io/Minitrace-Python-Library/) |
+|----------|----------|----------|----------|
